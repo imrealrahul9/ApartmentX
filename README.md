@@ -11,6 +11,7 @@ React
 Back-end:
 Node.js
 firebase
+
 Other tools and libraries:
 Bootstrap
 react-icons
