@@ -6,8 +6,8 @@ ApartmentX is a web-based platform that simplifies the process of renting and se
 
 
 Front-end:
-HTML5
-CSS3
+HTML
+CSS
 JavaScript
 React
 
